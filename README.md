@@ -7,3 +7,5 @@ This repository includes files that I coded for my practice.
   b. Rhombus
   c. Pyramid
   d. Palindrome
+
+3. FibonacciSeries.java: I have seen some tutorials regarding this series and found they usually print the first two digits manually and start the loop with 3rd digit. I find this unnecessary and here is an improved version of it.
