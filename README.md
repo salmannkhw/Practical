@@ -6,3 +6,4 @@ This repository includes files that I coded for my practice.
 4. Gcd.java: Find the Greatest Common Divisor among two numbers.
 5. SearchInput.java: Code to input values in an array of a given length and look for an index of a given value.
 6. SearchTwoDArray: Create a two-dimensional Array by taking input from the user, assigning value taken from the user, and finding the index of a specific value. Additional code commented for printing the 2D array in a matrix and printing mathematical coordinates instead of index. 
+7. RverseString.java: Get a String input for a name in String builder and reverse the order without using a predefined method. 
